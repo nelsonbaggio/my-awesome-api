@@ -2,7 +2,7 @@
 
 ## Description
 
-API utilizada para testes gerais, feita com [nestjs](https://docs.nestjs.com/) 
+API used for general testing, built with [nestjs](https://docs.nestjs.com/)
 
 ## Installation
 
@@ -35,4 +35,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
